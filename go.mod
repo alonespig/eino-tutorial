@@ -20,6 +20,8 @@ require (
 	github.com/bytedance/sonic v1.15.4 // indirect
 	github.com/bytedance/sonic/loader v0.5.2 // indirect
 	github.com/cloudwego/base64x v0.1.6 // indirect
+	github.com/cloudwego/eino-ext/components/document/loader/file v0.0.0-20260924074145-3603a39473c3 // indirect
+	github.com/cloudwego/eino-ext/components/document/transformer/splitter/recursive v0.0.0-20260924074145-3603a39473c3 // indirect
 	github.com/cloudwego/eino-ext/libs/acl/openai v0.1.17 // indirect
 	github.com/cohesion-org/deepseek-go v1.3.4 // indirect
 	github.com/dustin/go-humanize v1.0.1 // indirect
